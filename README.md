@@ -29,7 +29,7 @@ A lightweight, native macOS **Touch Bar widget** for **[Pock](https://pock.app)*
 Make sure you have Apple Command Line Tools installed (`xcode-select --install`), then run:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/hananjaofficial/pock-spaces-widget.git
 cd pock-spaces-widget
 ./build.sh --install
 ```
