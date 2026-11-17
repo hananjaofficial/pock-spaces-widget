@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>Spaces</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.custom.pock.Spaces</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Spaces</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.2</string>
+    <key>CFBundleVersion</key>
+    <string>2</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>NSPrincipalClass</key>
+    <string>Spaces.SpacesWidget</string>
+    <key>PKWidgetAuthor</key>
+    <string>Custom</string>
+    <key>PKWidgetPreferenceClass</key>
+    <string>Spaces.SpacesWidgetPreferencePane</string>
+</dict>
+</plist>
